@@ -1,0 +1,16 @@
+import FiniteNonlinearGeometriesCanonicalLaneLean.AdmissibleClass
+import FiniteNonlinearGeometriesCanonicalLaneLean.BridgeLemmas
+import FiniteNonlinearGeometriesCanonicalLaneLean.GateLemmas
+import FiniteNonlinearGeometriesCanonicalLaneLean.FinalTheorem
+import FiniteNonlinearGeometriesCanonicalLaneLean.MathlibObjects
+import FiniteNonlinearGeometriesCanonicalLaneLean.AxiomSystems
+import FiniteNonlinearGeometriesCanonicalLaneLean.Designs
+import FiniteNonlinearGeometriesCanonicalLaneLean.PolarSpaces
+
+namespace HautevilleHouse
+namespace FiniteNonlinearGeometriesCanonicalLaneLean
+
+-- The main package is defined by the imports above.
+
+end FiniteNonlinearGeometriesCanonicalLaneLean
+end HautevilleHouse
